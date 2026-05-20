@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git remote *)",
+      "Bash(git branch *)",
+      "Bash(git push *)",
+      "Bash(ls \"K:/嵌入式文本资料/立创·实战派ESP32-S3开发板资料/01-例程/szpi-s3-esp/08-lcd_lvgl/main\")",
+      "Read(//k/嵌入式文本资料/立创·实战派ESP32-S3开发板资料/01-例程/szpi-s3-esp/08-lcd_lvgl/main/**)",
+      "Read(//k/嵌入式文本资料/立创·实战派ESP32-S3开发板资料/01-例程/szpi-s3-esp/08-lcd_lvgl/**)",
+      "Bash(cd \"k:/Github/喵伴\" && mkdir -p main)",
+      "Bash(cp \"K:/嵌入式文本资料/立创·实战派ESP32-S3开发板资料/01-例程/szpi-s3-esp/08-lcd_lvgl/main/esp32_s3_szp.c\" \"k:/Github/喵伴/main/\")",
+      "Bash(cp \"K:/嵌入式文本资料/立创·实战派ESP32-S3开发板资料/01-例程/szpi-s3-esp/08-lcd_lvgl/main/esp32_s3_szp.h\" \"k:/Github/喵伴/main/\")",
+      "Bash(cp \"K:/嵌入式文本资料/立创·实战派ESP32-S3开发板资料/01-例程/szpi-s3-esp/08-lcd_lvgl/main/logo_en_240x240_lcd.h\" \"k:/Github/喵伴/main/\")",
+      "Bash(cp \"K:/嵌入式文本资料/立创·实战派ESP32-S3开发板资料/01-例程/szpi-s3-esp/08-lcd_lvgl/main/yingwu.h\" \"k:/Github/喵伴/main/\")"
+    ],
+    "additionalDirectories": [
+      "k:\\Github\\喵伴"
+    ]
+  }
+}
